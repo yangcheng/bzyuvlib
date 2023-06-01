@@ -32,7 +32,7 @@ allprojects {
 
 
 
-If it helps you, please give me a start
+If it helps you, please give me a star
 
 
 
